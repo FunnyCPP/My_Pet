@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975868996262",
+    "project_id": "my-pet-name-d404a",
+    "storage_bucket": "my-pet-name-d404a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975868996262:android:aa8669a35c5f5d45e32267",
+        "android_client_info": {
+          "package_name": "com.codart.animalnicknames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975868996262-he4b26ieeet7tp7nltcr4eqva6m41cuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWfBlnoGUAMc5jHHHsaXsl15nVKnUWBww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975868996262-he4b26ieeet7tp7nltcr4eqva6m41cuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
